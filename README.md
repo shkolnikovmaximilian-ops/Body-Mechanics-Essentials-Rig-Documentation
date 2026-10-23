@@ -97,7 +97,7 @@ LINKING A FILE \- Copies only your selected parts of a file onto your new file, 
 
 #
 
-## "Help! I did all of that and the rig's UI is not there! What do I do?!"
+# "Help! I did all of that and the rig's UI is not there! What do I do?!"
 
 It happens sometimes. I honestly don't know why it happens, but I know how to make it appear. You are going to have to run the rig's script manually. If the rig UI is in fact there after following the steps above, then don't worry about this part
 
