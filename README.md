@@ -13,7 +13,7 @@ CONTACTS: [EMAIL - shkolnikovmaximilian@gmail.com]
 
 # COMMON ISSUES
 
-### SCRIPT SECURITY ERROR ON OPEN
+### Script Security Error
 
 The only common issue I have found across multiple computers is that when you open the file, this error pops up. This error pops up because the rig automatically comes with a script that runs the rig's custom UI (User Interface). The computer does not recognize the script, and therefore does not trust it
 
@@ -63,7 +63,7 @@ LINKING A FILE \- Copies only your selected parts of a file onto your new file, 
 
    ![alt text](image-7.png)
 
-   ### Your scene and rig is all cleaned up now! But that was more of a hassle than it needed to be. Let me show you a better way to put the rig in a new file
+   Your scene and rig is all cleaned up now! But that was more of a hassle than it needed to be. Let me show you a better way to put the rig in a new file
 
 #
 
@@ -93,7 +93,7 @@ LINKING A FILE \- Copies only your selected parts of a file onto your new file, 
 
    ![alt text](image-10.png)
 
-   ### Enter Pose Mode and now your rig is ready for animating! This is a much cleaner and effienct way of re-using the rig in other blender files rather than appending it
+   Enter Pose Mode and now your rig is ready for animating! This is a much cleaner and effienct way of re-using the rig in other blender files rather than appending it
 
 #
 
@@ -119,7 +119,7 @@ It happens sometimes. I honestly don't know why it happens, but I know how to ma
 
    ![alt text](image-14.png)
 
-   ### Go back to the Layout window, and your rig UI will be available!
+   Go back to the Layout window, and your rig UI will be available!
 
    ![alt text](image-15.png)
 
