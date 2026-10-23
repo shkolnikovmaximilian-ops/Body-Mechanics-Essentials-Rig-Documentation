@@ -1,8 +1,6 @@
 # Body Mechanics Essentials Rig Documentation
 
-### It means so much to me that you bought this rig, and I hope you enjoy it\!
-
-This README will include common issue fixes, instructions, and guides for how all the controls and custom properties work
+This README includes common issue fixes, instructions, and guides for how all the controls and custom properties work
 
 As time passes, updates will come to the rig and the README if they are needed
 
