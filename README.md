@@ -353,7 +353,7 @@ The main leg (FK) controls include the:
 
 These can be found in the rig layers titled "Left Leg - FK" and "Right Leg - FK"
 
-The main arm (IK) control include the:
+The main leg (IK) control include the:
 - Foot Controller
 - Toes Controller
 - Ik Arm pole Controller
