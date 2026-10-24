@@ -183,3 +183,7 @@ The Main Torso controls include the:
 - Torso Controler
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4be237d127f0acb683f4a388741d7a67fc59e6c6/Images/image16.png)
+
+As you move or rotate the controls, the mesh follows and deforms with them
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4be237d127f0acb683f4a388741d7a67fc59e6c6/Images/image16.png)
