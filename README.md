@@ -141,7 +141,13 @@ If you only want a certain collection hidden, there is a small circle next to th
 
 ### Mesh Visibility Properties
 
-The mesh visibility properties allow you to hide certain parts of the mesh in the viewport. This can be exceptionally useful when you need to focus on certain body parts while animating the character. Hiding the mesh parts in the viewport does not hide them in the final render
+The mesh visibility properties allow you to hide certain parts of the mesh in the viewport. These custom properties are only exposed when the properties bone has been selected (It looks like a square and its above the character's head). This can be exceptionally useful when you need to focus on certain body parts while animating the character. Hiding the mesh parts in the viewport does not hide them in the final render
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4ea90bf819b59a90b5cffd3c1dc301740cff0f63/Images/VisLayer.gif)
+
+#
+
+### Mesh Color Properties
+
+The mesh color properties allow you to change the color of the entire character to any color you want. Your color choices will be reflected in your final renders
 
