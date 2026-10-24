@@ -253,3 +253,39 @@ The IK arm includes a "pole target". The purpose of this pole target is to chang
 The IK arm can allow you to change it's parent control. The IK arm naturally follows the torso, but you can change what it follows by clicking the dropdown called IK Parent and pick from the list what you want the arm to follow
 
 Lastly, you can also change the parent of the IK arm's pole target. The pole target's parent is the shoulder by default. Click the Pole Parent dropdown and pick from the list what you want the pole target to follow
+
+#
+
+### Fingers
+
+The left and right fingers are exactly the same. Same controls, same functionality, same everything. Just on opposite sides of the body
+
+The main finger (FK) controls include the:
+- Thumb 1
+- Thumb 2
+- Thumb 3
+- Index 1
+- Index 2
+- Index 3
+- Middle 1
+- Middle 2
+- Middle 3
+- Ring 1
+- Ring 2 
+- Ring 3
+- Pinky 1
+- Pinky 2
+- Pinky 3
+- Palm 1
+- Palm 2
+- Palm 3
+- Palm 4
+- Palm
+
+These can be found in the rig layers titled "Left Fingers - FK" and "Right Fingers - IK"
+
+The main arm (IK) control include the:
+- Hand
+- Ik Arm pole
+
+These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
