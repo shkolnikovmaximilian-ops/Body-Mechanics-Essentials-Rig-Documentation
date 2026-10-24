@@ -162,3 +162,13 @@ You can also change the color of the Symbol on the character's chest. This will 
 And in case you don't want to see the symbol at all, simply hide it by clicking the "Chest Emblem Visibility" box. An open eye means its visible, a closed eye means it isn't. This will also be reflected in your final renders
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/8b3d69ec5e41a2eea8de5891a5a69e81b6bc3c8f/Images/CHesSymColLayer.gif)
+
+#
+
+# Rig Controls
+
+The Body Mechanics Essentials rig controls can be divided into 4 sections. The Torso, Arms, Fingers, and Legs. The documentation will cover all of the controls in the rig, how they work, and the recommended way to pose/animate them
+
+#
+
+### Torso
