@@ -133,6 +133,15 @@ The rig UI is generated using a script that is run when the rig is opened. A cru
    
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/20b7f48ab1a19fb2995bde86db6a234db370fbf5/Images/RigLayersGif.gif)
 
-If you only want a certain collection hidden, there is a small circle next to the collections that you can click to "single them out" if you will. Only your chosen selection will be shown in the viewport and the rest will be hidden instantly
+If you only want a certain collection hidden, there is a small circle next to the collections that you can click to "solo" them. Only your chosen selection will be shown in the viewport and the rest will be hidden instantly. You can solo out any collection, at any quantity
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/3032bfe2999596c15af8038602cb9b0ade784d0a/Images/SoloLayerGif.gif)
+
+#
+
+### Mesh Visibility Properties
+
+The mesh visibility properties allow you to hide certain parts of the mesh in the viewport. This can be exceptionally useful when you need to focus on certain body parts while animating the character. Hiding the mesh parts in the viewport does not hide them in the final render
+
+![alt text]
+
