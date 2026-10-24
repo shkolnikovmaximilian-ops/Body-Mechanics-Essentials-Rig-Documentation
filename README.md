@@ -167,7 +167,7 @@ And in case you don't want to see the symbol at all, simply hide it by clicking 
 
 # RIG CONTROLS
 
-The Body Mechanics Essentials rig controls can be divided into 4 sections. The Torso, Arms, Fingers, and Legs. The documentation will cover all of the controls/bones in the rig, how they work, and the recommended way to pose/animate them
+The Body Mechanics Essentials rig controls can be divided into 4 sections. The Torso, Arms, Fingers, and Legs. The documentation will cover almost of the controls/bones in the rig, how they work, and the recommended way to pose/animate them. I only say "almost all of the controls/bones" because I won't be covering bones that are the exact same and on the right side of the body, or just the same in general in terms of functionality. That would be lengthy and boring in my opinion
 
 Off rip, I recommend setting your bone display settings to "In Front" if you haven't already. I positioned some of the bones in the rig to be inside the character, and it will be much easier to see them with "In front" on
 
@@ -175,6 +175,11 @@ Off rip, I recommend setting your bone display settings to "In Front" if you hav
 
 ### Torso
 
-The main torso controls include the main tosro controler, hips controler, chest controler, left and right shoulder controlers, neck controler, and the head controler
+The Main Torso controls include the:
+- Head Controller
+- Neck Controller
+- Left and Right Shoulder Controlers
+- Hips Controler
+- Torso Controler
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a5a752ae5d4dfd60f90d50cf567a20aa7ea8d8ab/Images/image16.png)
