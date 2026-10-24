@@ -178,12 +178,26 @@ Off rip, I recommend setting your bone display settings to "In Front" if you hav
 The Main Torso controls include the:
 - Head Controller
 - Neck Controller
-- Left and Right Shoulder Controlers
-- Hips Controler
-- Torso Controler
+- Left and Right Shoulder Controllers
+- Hips Controller
+- Torso Controller
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4be237d127f0acb683f4a388741d7a67fc59e6c6/Images/image16.png)
 
 As you move or rotate the controls, the mesh follows and deforms with them
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fbe2d76781ad83483858c406b4f1f82b530162ac/Images/TorsoCon.gif)
+
+The torso also has some tweaker controls that call allow you to deform the mesh more specifically. The tweaker controls include the:
+- Chest FK
+- Spine 1 FK
+- Spine 2 FK
+- Hips FK
+- Neck Tweak 1
+- Neck Tweak 2
+- Chest Tweak
+- Spine 1 Tweak
+- Spine 2 Tweak
+- Hips Tweak
+
+The torso also includes 2 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders)
