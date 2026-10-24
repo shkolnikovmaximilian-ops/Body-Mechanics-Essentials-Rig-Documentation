@@ -173,15 +173,17 @@ Off rip, I recommend setting your bone display settings to "In Front" if you hav
 
 #
 
-### TORSO
+### Torso
 
 
-The Main Torso controls include the:
+The main torso controls include the:
 - Head Controller
 - Neck Controller
 - Left and Right Shoulder Controllers
 - Hips Controller
 - Torso Controller
+
+These can be found in the rig layer titled "Torso"
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4be237d127f0acb683f4a388741d7a67fc59e6c6/Images/image16.png)
 
@@ -201,6 +203,8 @@ The torso also has some tweaker controls that call allow you to deform the mesh 
 - Spine 2 Tweak
 - Hips Tweak
 
+These can be found in the rig layer titled "Torso - Tweak"
+
 The torso also includes 2 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders). These custom properties are called Head Follow, and Neck Follow
 
 If Head Follow is set to 1, the head's rotation will follow the chest's rotation. If its set to 0, the head will not follow any rotations
@@ -209,4 +213,29 @@ The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is n
 
 #
 
-### ARMS
+### Arms
+
+The left and right arms are exactly the same. Same controls, same functionality, same everything. Just on opposite sides of the body
+
+The main arm (FK) controls include the:
+- Upper arm
+- Forearm
+- Hand
+
+These can be found in the rig layers titled "Left Arm - FK" and "Right Arm - FK"
+
+The main arm (IK) control includes only:
+- The hand
+
+These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
+
+(There are other "controls" in the IK layer, but they are not actually meant for animating. You can try to move them and stuff, but honestly its pointless in my opinion)
+
+The arms have 2 modes. FK mode (Forward Kinematics) and IK mode (Inverse Kinematics). 
+
+When the arm is in FK mode, the arm acts like a downward chain. When you move the upper arm, the rest of the arm follows. When you move the forearm, only the hand follows. You get the point
+
+When the arm is in IK mode, the arm transormations are based on the position of the hand in space
+
+You can switch from IK to FK mode in the UI if a part of the arm is selected wether its in IK or FK mode
+
