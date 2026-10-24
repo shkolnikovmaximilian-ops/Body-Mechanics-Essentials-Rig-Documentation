@@ -218,15 +218,15 @@ The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is n
 The left and right arms are exactly the same. Same controls, same functionality, same everything. Just on opposite sides of the body
 
 The main arm (FK) controls include the:
-- Upper arm
-- Forearm
-- Hand
+- Upper arm Controller
+- Forearm Controller
+- Hand Controller
 
 These can be found in the rig layers titled "Left Arm - FK" and "Right Arm - FK"
 
 The main arm (IK) control include the:
-- Hand
-- Ik Arm pole
+- Hand Controller
+- Ik Arm pole Controller
 
 These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
 
@@ -267,45 +267,45 @@ Lastly, you can also change the parent of the IK arm's pole target. The pole tar
 The left and right fingers are exactly the same. Same controls, same functionality, same everything. Just on opposite sides of the body
 
 The main finger (FK) controls include the:
-- Thumb 1
-- Thumb 2
-- Thumb 3
-- Index 1
-- Index 2
-- Index 3
-- Middle 1
-- Middle 2
-- Middle 3
-- Ring 1
-- Ring 2 
-- Ring 3
-- Pinky 1
-- Pinky 2
-- Pinky 3
-- Palm 1
-- Palm 2
-- Palm 3
-- Palm 4
-- Palm
+- Thumb 1 Controller
+- Thumb 2 Controller
+- Thumb 3 Controller
+- Index 1 Controller
+- Index 2 Controller
+- Index 3 Controller
+- Middle 1 Controller
+- Middle 2 Controller
+- Middle 3 Controller
+- Ring 1 Controller
+- Ring 2 Controller
+- Ring 3 Controller
+- Pinky 1 Controller
+- Pinky 2 Controller
+- Pinky 3 Controller
+- Palm 1 Controller
+- Palm 2 Controller 
+- Palm 3 Controller
+- Palm 4 Controller
+- Palm Controller
 
 These can be found in the rig layers titled "Left Fingers - FK" and "Right Fingers - FK"
 
 The main arm (IK) controls include the:
-- Thumb
-- Thumb IK Tip
-- Thumb IK pole
-- Index
-- Index IK Tip
-- Index IK pole
-- Midle
-- Midle IK Tip
-- Midle IK pole
-- Ring
-- Ring IK Tip
-- Ring IK pole
-- Pinky
-- Pinky IK Tip
-- Pinky IK pole
+- Thumb Controller
+- Thumb IK Tip Controller
+- Thumb IK pole Controller
+- Index Controller
+- Index IK Tip Controller
+- Index IK pole Controller
+- Middle Controller
+- Middle IK Tip Controller
+- Middle IK pole Controller
+- Ring Controller
+- Ring IK Tip Controller
+- Ring IK pole Controller
+- Pinky Controller
+- Pinky IK Tip Controller
+- Pinky IK pole Controller
 
 These can be found in the rig layers titled "Left Fingers - IK" and "Right Fingers - IK"
 
@@ -342,3 +342,30 @@ That's because the fingers are techincally mini arms lol. With that being said, 
 #
 
 ### Legs
+
+Like the arms and the fingers, the left and right legs are exactly the same. Same controls, same functionality, same everything. Just on opposite sides of the body
+
+The main leg (FK) controls include the:
+- Thigh Controller
+- Shin Controller
+- Foot Controller
+- Toes Controller
+
+These can be found in the rig layers titled "Left Leg - FK" and "Right Leg - FK"
+
+The main arm (IK) control include the:
+- Foot Controller
+- Toes Controller
+- Ik Arm pole Controller
+- IK Foot Heel Controller
+- IK Foot Spin Controller
+
+These can be found in the rig layers titled "Left Leg - IK" and "Right Leg - IK"
+
+The legs also has some tweaker controls that call allow you to deform the mesh more specifically. The tweaker controls include the:
+- Thigh Tweak
+- Shin Tweak
+- Foot Tweak
+- Toes Tweak
+
+These can be found in the rig layers titled "Left Leg - Tweak" and "Right Leg - Tweak"
