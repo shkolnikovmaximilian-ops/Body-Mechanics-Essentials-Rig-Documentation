@@ -224,8 +224,9 @@ The main arm (FK) controls include the:
 
 These can be found in the rig layers titled "Left Arm - FK" and "Right Arm - FK"
 
-The main arm (IK) control includes only:
-- The hand
+The main arm (IK) control include the:
+- Hand
+- Ik Arm pole
 
 These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
 
@@ -238,4 +239,10 @@ When the arm is in FK mode, the arm acts like a downward chain. When you move th
 When the arm is in IK mode, the arm transormations are based on the position of the hand in space
 
 You can switch from IK to FK mode in the UI if a part of the arm is selected wether its in IK or FK mode
+
+The rig also comes with IK and FK snapping mechanisms. If the arm were in FK mode and you want it to copy the same transforms as the IK arm, hit FK -> IK (hand.l) (or FK -> IK (hand.r) if you are using the right arm) to make the FK arm snap to the position of the IK arm
+
+If you want the IK arm to snap to the FK arm, hit IK -> FK (hand.l) (.r with the right arm) to do so
+
+If you dont want the IK arm to stretch the arm when moving the controls very far, select any part of the arm and find the property called IK Stretch. A value of one means the mesh will stretch, a value of 0 means the mesh won't stretch
 
