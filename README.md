@@ -177,4 +177,4 @@ Off rip, I recommend setting your bone display settings to "In Front" if you hav
 
 The main torso controls include the main tosro controler, hips controler, chest controler, left and right shoulder controlers, neck controler, and the head controler
 
-![alt text](image.png)
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a5a752ae5d4dfd60f90d50cf567a20aa7ea8d8ab/Images/image16.png)
