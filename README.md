@@ -133,7 +133,9 @@ The rig UI is generated using a script that is run when the rig is opened. A cru
    
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/20b7f48ab1a19fb2995bde86db6a234db370fbf5/Images/RigLayersGif.gif)
 
-If you only want a certain collection hidden, there is a small circle next to the collections that you can click to "solo" them. Only your chosen selection will be shown in the viewport and the rest will be hidden instantly. You can solo out any collection, at any quantity
+If you only want a certain collection hidden, there is a small circle next to the collections that you can click to "solo" them. Only your chosen selection will be shown in the viewport and the rest will be hidden instantly. You ca
+
+n solo out any collection, at any quantity
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/3032bfe2999596c15af8038602cb9b0ade784d0a/Images/SoloLayerGif.gif)
 
@@ -154,4 +156,8 @@ The mesh color properties allow you to change the color of the entire character 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/463898481448e42c5e6332907aafba30b67be026/Images/ColLayer.gif)
 
 You can also change the color of the Symbol on the characters chest. This will also be reflected in your final renders
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fe8d58fe678242e03d4c7141430201b7fc51b748/Images/SymColLayer.gif)
+
+And in case you don't want to see the symbol at all, simply hide it by clicking the "Chest Emblem Visibility" box. An open eye means its visible, a closed eye means it isn't. This will also be reflected in your final renders
 
