@@ -173,7 +173,8 @@ Off rip, I recommend setting your bone display settings to "In Front" if you hav
 
 #
 
-### Torso
+### TORSO
+
 
 The Main Torso controls include the:
 - Head Controller
@@ -200,4 +201,12 @@ The torso also has some tweaker controls that call allow you to deform the mesh 
 - Spine 2 Tweak
 - Hips Tweak
 
-The torso also includes 2 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders)
+The torso also includes 2 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders). These custom properties are called Head Follow, and Neck Follow
+
+If Head Follow is set to 1, the head's rotation will follow the chest's rotation. If its set to 0, the head will not follow any rotations
+
+The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is not
+
+#
+
+### ARMS
