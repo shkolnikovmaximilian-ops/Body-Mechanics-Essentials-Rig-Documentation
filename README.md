@@ -182,4 +182,4 @@ The Main Torso controls include the:
 - Hips Controler
 - Torso Controler
 
-![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a5a752ae5d4dfd60f90d50cf567a20aa7ea8d8ab/Images/image16.png)
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4be237d127f0acb683f4a388741d7a67fc59e6c6/Images/image16.png)
