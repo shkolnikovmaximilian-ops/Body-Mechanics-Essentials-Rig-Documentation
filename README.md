@@ -246,3 +246,8 @@ If you want the IK arm to snap to the FK arm, hit IK -> FK (hand.l) (.r with the
 
 If you dont want the IK arm to stretch the arm when moving the controls very far, select any part of the arm and find the property called IK Stretch. A value of one means the mesh will stretch, a value of 0 means the mesh won't stretch
 
+The IK arm includes a "pole target". The purpose of this pole target is to change the direction of the bend when moving the IK arm around. You can turn this off by finding the Toggle Pole property in the UI and turning it off
+
+The IK arm can allow you to change it's parent control. The IK arm naturally follows the torso, but you can change what it follows by clicking the dropdown called IK Parent and pick from the list what you want the arm to follow
+
+Lastly, you can also change the parent of the IK arm's pole target. The pole target's parent is the shoulder by default. Click the Pole Parent dropdown and pick from the list what you want the pole target to follow
