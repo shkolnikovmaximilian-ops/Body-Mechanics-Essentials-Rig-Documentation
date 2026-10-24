@@ -151,3 +151,7 @@ The mesh visibility properties allow you to hide certain parts of the mesh in th
 
 The mesh color properties allow you to change the color of the entire character to any color you want. Your color choices will be reflected in your final renders
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/463898481448e42c5e6332907aafba30b67be026/Images/ColLayer.gif)
+
+You can also change the color of the Symbol on the characters chest. This will also be reflected in your final renders
+
