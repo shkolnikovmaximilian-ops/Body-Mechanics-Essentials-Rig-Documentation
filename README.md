@@ -17,7 +17,7 @@ CONTACTS: [EMAIL - shkolnikovmaximilian@gmail.com]
 
 The only common issue I have found across multiple computers is that when you open the file, this error pops up. This error pops up because the rig automatically comes with a script that runs the rig's custom UI (User Interface). The computer does not recognize the script, and therefore does not trust it
 
-![alt text](image.png)
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image.png)
 
 To fix this, either click "Allow Execution" (which will only run the script this one time, meaning you will probably have to click that every time you open the file), or you can check "Permanently enable execution of scripts" so that way the script runs automatically
 
@@ -37,31 +37,31 @@ LINKING A FILE \- Copies only your selected parts of a file onto your new file, 
 
 1. In your new file click file \>\> Append...
 
-   ![alt text](image-1.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-1.png)
 
 2. Locate the rig file on your computer, and double click it
 
-   ![alt text](image-2.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-2.png)
 
 3. Locate the Collection folder and open it
 
-   ![alt text](image-3.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-3.png)
 
 4. Inside the Collection Folder, locate the "MASTER\_CubeMan\_Enhanced" folder and open it
 
-   ![alt text](image-4.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-4.png)
 
 5. Your rig will now be available in the scene\! But it's quite a mess... All of the extra data that was used to create the rig is now in this file
 
-   ![alt text](image-5.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-5.png)
 
 6. To clean all this up, select everything in the outliner outside of the master collection that begins with the prefix WGT
 
-   ![alt text](image-6.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-6.png)
 
 7. When all of that is selected, right click, and hit "Unlink"
 
-   ![alt text](image-7.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-7.png)
 
    Your scene and rig is all cleaned up now! But that was more of a hassle than it needed to be. Let me show you a better way to put the rig in a new file
 
@@ -71,27 +71,27 @@ LINKING A FILE \- Copies only your selected parts of a file onto your new file, 
 
 1. In your new file click file \>\> Link...
 
-   ![alt text](image-8.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-8.png)
 
 2. Locate the rig file on your computer, and double click it
 
-   ![alt text](image-2.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-2.png)
 
 3. Locate the Collection folder and open it
 
-   ![alt text](image-3.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-3.png)
 
 4. Inside the Collection Folder, locate the "MASTER\_CubeMan\_Enhanced" folder and open it
 
-   ![alt text](image-4.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-4.png)
 
 5. Your rig will now be available in the scene\! But you are locked out from entering pose mode to start animating the rig. Lets fix that
 
-   ![alt text](image-9.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-9.png)
 
 6. Right click the Master Collection. Library Override >> Make >> Click Selected & Content
 
-   ![alt text](image-10.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-10.png)
 
    Enter Pose Mode and now your rig is ready for animating! This is a much cleaner and effienct way of re-using the rig in other blender files rather than appending it
 
@@ -105,23 +105,23 @@ It happens sometimes. I honestly don't know why it happens, but I know how to ma
 
 1. Inside your new file with your rig, enter the Scripting window
 
-   ![alt text](image-11.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-11.png)
 
 2. Inside the scripting window, locate the little notebook icon and click it. You should see a dropdown menu including a script option with a chain icon, as well as the name of the file you are linking or appending the rig from
 
-   ![alt text](image-12.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-12.png)
 
 3. Click that script option. For reference, this is what it looks like once opened in the script editor
 
-   ![alt text](image-13.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-13.png)
 
 4. All you have to do now, is run the script by clicking this little play button up at the top!
 
-   ![alt text](image-14.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-14.png)
 
    Go back to the Layout window, and your rig UI will be available!
 
-   ![alt text](image-15.png)
+   ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9feec754ecb86ed577b2a3f04afe42d26c73ab30/Images/image-15.png)
 
 #
 
