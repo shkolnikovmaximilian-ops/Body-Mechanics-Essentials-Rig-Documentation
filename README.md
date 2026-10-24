@@ -230,6 +230,12 @@ The main arm (IK) control include the:
 
 These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
 
+The arms also has some tweaker controls that call allow you to deform the mesh more specifically. The tweaker controls include the:
+- Upper arm tweak
+- Forearm Tweak
+- Hand Tweak
+- Hand Tip Tweak
+
 (There are other "controls" in the IK layer, but they are not actually meant for animating. You can try to move them and stuff, but honestly its pointless in my opinion)
 
 The arms have 2 modes. FK mode (Forward Kinematics) and IK mode (Inverse Kinematics). 
@@ -282,10 +288,57 @@ The main finger (FK) controls include the:
 - Palm 4
 - Palm
 
-These can be found in the rig layers titled "Left Fingers - FK" and "Right Fingers - IK"
+These can be found in the rig layers titled "Left Fingers - FK" and "Right Fingers - FK"
 
-The main arm (IK) control include the:
-- Hand
-- Ik Arm pole
+The main arm (IK) controls include the:
+- Thumb
+- Thumb IK Tip
+- Thumb IK pole
+- Index
+- Index IK Tip
+- Index IK pole
+- Midle
+- Midle IK Tip
+- Midle IK pole
+- Ring
+- Ring IK Tip
+- Ring IK pole
+- Pinky
+- Pinky IK Tip
+- Pinky IK pole
 
-These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
+These can be found in the rig layers titled "Left Fingers - IK" and "Right Fingers - IK"
+
+The Fingers also has tweaker controls for each finger on each hand. Those controls include:
+- Thumb 1 Tweak
+- Thumb 2 Tweak
+- Thumb 3 Tweak
+- Thumb 3 Tip Tweak
+- Index 1 Tweak
+- Index 2 Tweak
+- Index 3 Tweak
+- Index 3 Tip Tweak
+- Middle 1 Tweak
+- Middle 2 Tweak
+- Middle 3 Tweak
+- Middle 3 Tip Tweak
+- Ring 1 Tweak
+- Ring 2 Tweak
+- Ring 3 Tweak
+- Ring 3 Tip Tweak
+- Pinky 1 Tweak
+- Pinky 2 Tweak
+- Pinky 3 Tweak
+- Pinky 3 Tip Tweak
+
+These can be found in the rig layers titled "Left Fingers - Tweak" and "Right Fingers - Tweak"
+
+Just like the arms, you can switch betwen FK and IK modes for each finger. Click any finger and find the IK - FK (finger of choice) slider and choose from there. A value of 1 means FK, 0 means IK
+
+The finger controls on each finger also include the same IK - FK snapping mechanisms, FK limb follow functions, pole parent functions, IK parent functions, and IK stretch functions as the arms (The values for these properties are also the same)
+
+That's because the fingers are techincally mini arms lol. With that being said, I won't explain all of that again for each finger. That would take ages and it would be repetitive. Refer yourself to the arms section for details on all of those properties. All Example GIFs are shown below
+
+#
+
+### Legs
