@@ -126,3 +126,8 @@ It happens sometimes. I honestly don't know why it happens, but I know how to ma
 #
 
 # NAVIGATING THE RIG USER INTERFACE
+
+### Rig Layers
+
+The rig UI is generated using a script that is run when the rig is opened. The first section of the UI is the Rig Layers. The rig layers allow you to hide any bone (control) collection listed in the UI. When a collection is highlighted blue, the collection is visible in the viewport. When the collection is not higlighted blue, the collection is hidden
+
