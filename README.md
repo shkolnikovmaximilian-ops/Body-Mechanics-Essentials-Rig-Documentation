@@ -272,7 +272,7 @@ The rig also comes with IK and FK snapping mechanisms. If the arm were in FK mod
 
 If you want the IK arm to snap to the FK arm, hit IK -> FK (hand.l) (.r with the right arm) to do so
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/932856d4b259b98d1513e6b78f5111707f485c7f/Images/fktoikarm.gif)
 
 The FK arm has an FK exclusive property that allows you to change wether it follows the rotations of the body. Select any FK arm control, and find the FK Limb Follow property in the UI. A value of 1 means the arm will not follow any external rotations. A value of 0 means it will
 
