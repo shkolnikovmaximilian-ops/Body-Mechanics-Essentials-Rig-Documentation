@@ -232,11 +232,13 @@ These can be found in the rig layers titled "Left Arm - FK" and "Right Arm - FK"
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fd38a89068fe385fb7eea5f17957069342011e53/Images/Armmain.png)
 
-The main arm (IK) control include the:
+The main arm (IK) controls include the:
 - Hand Controller
 - Ik Arm pole Controller
 
 These can be found in the rig layers titled "Left Arm - IK" and "Right Arm - IK"
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/08bb17dd567b83216aa0907c47db3455ae963d76/Images/Fkarm.png)
 
 The arms also has some tweaker controls that call allow you to deform the mesh more specifically. The tweaker controls include the:
 - Upper arm tweak
