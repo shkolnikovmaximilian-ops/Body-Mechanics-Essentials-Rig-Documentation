@@ -211,7 +211,7 @@ The torso also includes 2 custom properties that are exposed in the UI when clic
 
 If Head Follow is set to 1, the head's rotation will follow the chest's rotation. If its set to 0, the head will not follow any rotations
 
-![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fbe2d76781ad83483858c406b4f1f82b530162ac/Images/TorsoCon.gif)
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9caf3ebe462aa030a62b471323999a16701761c3/Images/headrot.gif)
 
 The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is not
 
