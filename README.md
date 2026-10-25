@@ -278,7 +278,7 @@ The FK arm has an FK exclusive property that allows you to change wether it foll
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/80cb8ac5055537f4a8fdb811ddd86d29d8489b15/Images/armrot.gif)
 
-If you dont want the IK arm to stretch the arm when moving the controls very far, select any part of the arm and find the property called IK Stretch. A value of one means the mesh will stretch, a value of 0 means the mesh won't stretch
+If you dont want the IK arm to stretch the arm when moving the controls very far, select any part of the arm and find the property called IK Stretch. A value of 1 means the mesh will stretch, a value of 0 means the mesh won't stretch
 
 The IK arm includes a "pole target". The purpose of this pole target is to change the direction of the bend when moving the IK arm around. You can turn this off by finding the Toggle Pole property in the UI and turning it off
 
