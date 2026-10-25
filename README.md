@@ -246,6 +246,10 @@ The arms also has some tweaker controls that call allow you to deform the mesh m
 - Hand Tweak
 - Hand Tip Tweak
 
+These can be found in the rig layers titled "Left Arm - Tweak" and "Right Arm - Tweak"
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/51d347bed7a3e182f044c5c7b4be1b4cff7a383f/Images/Armtweak.png)
+
 (There are other "controls" in the IK layer, but they are not actually meant for animating. You can try to move them and stuff, but honestly its pointless in my opinion)
 
 The arms have 2 modes. FK mode (Forward Kinematics) and IK mode (Inverse Kinematics). 
