@@ -260,7 +260,9 @@ When the arm is in FK mode, the arm acts like a downward chain. When you move th
 
 When the arm is in IK mode, the arm transormations are based on the position of the hand in space
 
-You can switch from IK to FK mode in the UI if a part of the arm is selected wether its in IK or FK mode
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/1253d87cf1b0dbc3ca1d4504476b462e671b5cca/Images/armikex.gif)
+
+You can switch from IK to FK mode in the UI if a part of the arm is selected wether its in IK or FK mode. A value of 1 means FK, a value of 0 means IK
 
 The rig also comes with IK and FK snapping mechanisms. If the arm were in FK mode and you want it to copy the same transforms as the IK arm, hit FK -> IK (hand.l) (or FK -> IK (hand.r) if you are using the right arm) to make the FK arm snap to the position of the IK arm
 
