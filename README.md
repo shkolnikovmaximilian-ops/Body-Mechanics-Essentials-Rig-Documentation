@@ -171,6 +171,8 @@ The Body Mechanics Essentials rig controls can be divided into 4 sections. The T
 
 Off rip, I recommend setting your bone display settings to "In Front" if you haven't already. I positioned some of the bones in the rig to be inside the character, and it will be much easier to see them with "In front" on
 
+By the way the entire rig can be moved using the Root controller. Its a big square surrounding the character's feet, and it's rig layer is named Root
+
 #
 
 ### Torso
