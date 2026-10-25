@@ -280,6 +280,8 @@ The FK arm has an FK exclusive property that allows you to change wether it foll
 
 If you dont want the IK arm to stretch the arm when moving the controls very far, select any part of the arm and find the property called IK Stretch. A value of 1 means the mesh will stretch, a value of 0 means the mesh won't stretch
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/2df14b50359558e62b61fa40bdf771e7d3664c3d/Images/ikstretcharm.gif)
+
 The IK arm includes a "pole target". The purpose of this pole target is to change the direction of the bend when moving the IK arm around. You can turn this off by finding the Toggle Pole property in the UI and turning it off
 
 The IK arm can allow you to change it's parent control. The IK arm naturally follows the torso, but you can change what it follows by clicking the dropdown called IK Parent and pick from the list what you want the arm to follow
