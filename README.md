@@ -205,6 +205,8 @@ The torso also has some tweaker controls that call allow you to deform the mesh 
 
 These can be found in the rig layer titled "Torso - Tweak"
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fb36e3709278ca9be56b00371448cc71b411bdb2/Images/chesttweak.png)
+
 The torso also includes 2 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders). These custom properties are called Head Follow, and Neck Follow
 
 If Head Follow is set to 1, the head's rotation will follow the chest's rotation. If its set to 0, the head will not follow any rotations
@@ -369,3 +371,11 @@ The legs also has some tweaker controls that call allow you to deform the mesh m
 - Toes Tweak
 
 These can be found in the rig layers titled "Left Leg - Tweak" and "Right Leg - Tweak"
+
+The legs share the same IK and FK functions as the arm and fingers. All examples GIFS will be provided as per usual. However there are two additional IK and FK properties that are exclusive to the leg that have not been covered in the documentation. These additional properties are the Roll On Toe, and IK -> FK With Roll (either foot) properties
+
+The Roll On Toe property dictates wether the foot rolls on the toes of the foot or not. When the property value is 0, the natural rolling on toes occurs. When the value is 1, the foot roll bypasses the toes entirely
+
+The IK -> FK With Roll (either foot) property is the same as the IK -> FK (either foot) tool, except that it tries to include the roll of the foot when snapping to the FK position
+
+The usual FK and IK functions are shown below
