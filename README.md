@@ -276,6 +276,8 @@ If you want the IK arm to snap to the FK arm, hit IK -> FK (hand.l) (.r with the
 
 The FK arm has an FK exclusive property that allows you to change wether it follows the rotations of the body. Select any FK arm control, and find the FK Limb Follow property in the UI. A value of 1 means the arm will not follow any external rotations. A value of 0 means it will
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/80cb8ac5055537f4a8fdb811ddd86d29d8489b15/Images/armrot.gif)
+
 If you dont want the IK arm to stretch the arm when moving the controls very far, select any part of the arm and find the property called IK Stretch. A value of one means the mesh will stretch, a value of 0 means the mesh won't stretch
 
 The IK arm includes a "pole target". The purpose of this pole target is to change the direction of the bend when moving the IK arm around. You can turn this off by finding the Toggle Pole property in the UI and turning it off
