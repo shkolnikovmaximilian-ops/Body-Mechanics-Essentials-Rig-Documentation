@@ -254,6 +254,8 @@ These can be found in the rig layers titled "Left Arm - Tweak" and "Right Arm - 
 
 The arms have 2 modes. FK mode (Forward Kinematics) and IK mode (Inverse Kinematics). 
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/7f9be1ed155084964a86ea5e548f874e0cb6644f/Images/armfkex.gif)
+
 When the arm is in FK mode, the arm acts like a downward chain. When you move the upper arm, the rest of the arm follows. When you move the forearm, only the hand follows. You get the point
 
 When the arm is in IK mode, the arm transormations are based on the position of the hand in space
