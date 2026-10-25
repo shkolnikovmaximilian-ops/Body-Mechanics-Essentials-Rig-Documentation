@@ -215,7 +215,7 @@ If Head Follow is set to 1, the head's rotation will follow the chest's rotation
 
 The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is not
 
-![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fbe2d76781ad83483858c406b4f1f82b530162ac/Images/TorsoCon.gif)
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a32d8fb4d5d61d0ec126d30e50b19cefc3765025/Images/Neckrot.gif)
 
 #
 
