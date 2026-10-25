@@ -268,7 +268,11 @@ You can switch from IK to FK mode in the UI if a part of the arm is selected wet
 
 The rig also comes with IK and FK snapping mechanisms. If the arm were in FK mode and you want it to copy the same transforms as the IK arm, hit FK -> IK (hand.l) (or FK -> IK (hand.r) if you are using the right arm) to make the FK arm snap to the position of the IK arm
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/418b58f7eb603930b47a26428eb78431c5e9b0a7/Images/iktofkarm.gif)
+
 If you want the IK arm to snap to the FK arm, hit IK -> FK (hand.l) (.r with the right arm) to do so
+
+![alt text]
 
 The FK arm has an FK exclusive property that allows you to change wether it follows the rotations of the body. Select any FK arm control, and find the FK Limb Follow property in the UI. A value of 1 means the arm will not follow any external rotations. A value of 0 means it will
 
