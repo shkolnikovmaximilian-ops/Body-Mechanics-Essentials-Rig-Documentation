@@ -230,6 +230,8 @@ The main arm (FK) controls include the:
 
 These can be found in the rig layers titled "Left Arm - FK" and "Right Arm - FK"
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fd38a89068fe385fb7eea5f17957069342011e53/Images/Armmain.png)
+
 The main arm (IK) control include the:
 - Hand Controller
 - Ik Arm pole Controller
