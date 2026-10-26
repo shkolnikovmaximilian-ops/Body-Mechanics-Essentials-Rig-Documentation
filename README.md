@@ -209,13 +209,17 @@ These can be found in the rig layer titled "Torso - Tweak"
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/fb36e3709278ca9be56b00371448cc71b411bdb2/Images/chesttweak.png)
 
-The torso also includes 2 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders). These custom properties are called Head Follow, and Neck Follow
+The torso also includes 3 custom properties that are exposed in the UI when clicking any of the torso controls (minus the shoulders). These custom properties are called Head Follow, Neck Follow, and Torso Parent
 
 If Head Follow is set to 1, the head's rotation will follow the chest's rotation. If its set to 0, the head will not follow any rotations
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/9caf3ebe462aa030a62b471323999a16701761c3/Images/headrot.gif)
 
 The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is not
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a32d8fb4d5d61d0ec126d30e50b19cefc3765025/Images/Neckrot.gif)
+
+The torso parent property lets you decide wether you want the torso to follow the root or not. Locate the torso parent dropdown in the UI to change the parent of the torso
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a32d8fb4d5d61d0ec126d30e50b19cefc3765025/Images/Neckrot.gif)
 
