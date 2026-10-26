@@ -407,7 +407,7 @@ IK Stretch (Left or Right) (Any Finger)
 
 Toggle IK Pole (Left or Right) (Any Finger)
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/517502146edd2a37919946c544efb3113fdb4cc5/Images/fingerpolevis.gif)
 
 IK Finger Parent (Left or Right) (Any Finger)
 
