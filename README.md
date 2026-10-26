@@ -484,9 +484,9 @@ IK Stretch (Left or Right)
 
 Toggle IK Pole (Left or Right) 
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/6822f2cdb3dbcb054ce9cdb63a241a3e50ccee43/Images/legikvispol.gif)
 
-IK Finger Parent (Left or Right) 
+IK Leg Parent (Left or Right) 
 
 ![alt text]
 
