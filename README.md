@@ -458,7 +458,7 @@ The legs share the same IK and FK functions as the arm and fingers. All examples
 
 The Roll On Toe property dictates wether the foot rolls on the toes of the foot or not. When the property value is 0, the natural rolling on toes occurs. When the value is 1, the foot roll bypasses the toes entirely
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/13161dda173e385a8e37d35a59f7337330aef014/Images/rollontoe.gif)
 
 The IK -> FK With Roll (either foot) property is the same as the IK -> FK (either foot) tool, except that it tries to include the roll of the foot when snapping to the FK position
 
