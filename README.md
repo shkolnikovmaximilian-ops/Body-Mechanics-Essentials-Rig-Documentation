@@ -298,6 +298,8 @@ The IK arm can allow you to change it's parent control. The IK arm naturally fol
 
 Lastly, you can also change the parent of the IK arm's pole target. The pole target's parent is the shoulder by default. Click the Pole Parent dropdown and pick from the list what you want the pole target to follow
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/bafbf3c32537d98bf9b969b44986f2ad46c2de3b/Images/ikpoleparentswitch.gif)
+
 #
 
 ### Fingers
