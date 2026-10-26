@@ -431,6 +431,8 @@ The main leg (FK) controls include the:
 
 These can be found in the rig layers titled "Left Leg - FK" and "Right Leg - FK"
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/e7e344e1c361a651accd75b93e3e9efcbd94d8d1/Images/Fkleg.png)
+
 The main leg (IK) controls include the:
 - Foot Controller
 - Toes Controller
@@ -440,6 +442,8 @@ The main leg (IK) controls include the:
 
 These can be found in the rig layers titled "Left Leg - IK" and "Right Leg - IK"
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/e7e344e1c361a651accd75b93e3e9efcbd94d8d1/Images/Ikleg.png)
+
 The legs also has some tweaker controls that call allow you to deform the mesh more specifically. The tweaker controls include the:
 - Thigh Tweak
 - Shin Tweak
@@ -447,6 +451,8 @@ The legs also has some tweaker controls that call allow you to deform the mesh m
 - Toes Tweak
 
 These can be found in the rig layers titled "Left Leg - Tweak" and "Right Leg - Tweak"
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/e7e344e1c361a651accd75b93e3e9efcbd94d8d1/Images/Legtweak.png)
 
 The legs share the same IK and FK functions as the arm and fingers. All examples GIFS will be provided as per usual. However there are two additional IK and FK properties that are exclusive to the leg that have not been covered in the documentation. These additional properties are the Roll On Toe, and IK -> FK With Roll (either foot) properties
 
