@@ -488,7 +488,7 @@ Toggle IK Pole (Left or Right)
 
 IK Leg Parent (Left or Right) 
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/60e05f9ab832a5a4e15ec6cb6179083726b2886e/Images/vivideo-mp4-to-gif.gif)
 
 IK Pole Parent (Left or Right)
 
