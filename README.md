@@ -403,7 +403,7 @@ IK -> FK Snapping (Left or Right) (Any Finger)
 
 IK Stretch (Left or Right) (Any Finger)
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/adf1e28f28cc1047ee50a7c3fbdfee350f2b15e3/Images/finkerstretch.gif)
 
 Toggle IK Pole (Left or Right) (Any Finger)
 
