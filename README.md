@@ -221,7 +221,7 @@ The Neck Follow is the same as the head's follow properties. 1 is follow, 0 is n
 
 The torso parent property lets you decide wether you want the torso to follow the root or not. Locate the torso parent dropdown in the UI to change the parent of the torso
 
-![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/a32d8fb4d5d61d0ec126d30e50b19cefc3765025/Images/Neckrot.gif)
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/51999b47046811c4414a8a2dc155958e2dfffafd/Images/torsoparent.gif)
 
 #
 
