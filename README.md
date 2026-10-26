@@ -387,6 +387,18 @@ The finger controls on each finger also include the same IK - FK snapping mechan
 
 That's because the fingers are techincally mini arms lol. With that being said, I won't explain all of that again for each finger. That would take ages and it would be repetitive. Refer yourself to the arms section for details on all of those properties. All Example GIFs are shown below
 
+FK -> IK Snapping (Left or Right) (Any Finger)
+
+IK -> FK Snapping (Left or Right) (Any Finger)
+
+IK Stretch (Left or Right) (Any Finger)
+
+Toggle IK Pole (Left or Right) (Any Finger)
+
+IK Finger Parent (Left or Right) (Any Finger)
+
+IK Pole Parent (Left or Right) (Any Finger)
+
 #
 
 ### Legs
@@ -425,3 +437,15 @@ The Roll On Toe property dictates wether the foot rolls on the toes of the foot 
 The IK -> FK With Roll (either foot) property is the same as the IK -> FK (either foot) tool, except that it tries to include the roll of the foot when snapping to the FK position
 
 The usual FK and IK functions are shown below
+
+FK -> IK Snapping (Left or Right) 
+
+IK -> FK Snapping (Left or Right) 
+
+IK Stretch (Left or Right) 
+
+Toggle IK Pole (Left or Right) 
+
+IK Finger Parent (Left or Right) 
+
+IK Pole Parent (Left or Right)
