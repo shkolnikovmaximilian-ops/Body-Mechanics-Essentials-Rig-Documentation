@@ -468,7 +468,7 @@ The usual FK and IK functions are shown below
 
 FK Limb Follow (Left or Right)
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/5ce8d14c8c3679ddc8eecfbb68a5641db0a85c3a/Images/legrot.gif)
 
 FK -> IK Snapping (Left or Right) 
 
