@@ -330,6 +330,8 @@ The main finger (FK) controls include the:
 
 These can be found in the rig layers titled "Left Fingers - FK" and "Right Fingers - FK"
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/afd90bbee2657d317ff8583baa77ca5689e7e743/Images/Fkhand.png)
+
 The main arm (IK) controls include the:
 - Thumb Controller
 - Thumb IK Tip Controller
@@ -348,6 +350,8 @@ The main arm (IK) controls include the:
 - Pinky IK pole Controller
 
 These can be found in the rig layers titled "Left Fingers - IK" and "Right Fingers - IK"
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/afd90bbee2657d317ff8583baa77ca5689e7e743/Images/Ikhand.png)
 
 The Fingers also has tweaker controls for each finger on each hand. Those controls include:
 - Thumb 1 Tweak
@@ -372,6 +376,8 @@ The Fingers also has tweaker controls for each finger on each hand. Those contro
 - Pinky 3 Tip Tweak
 
 These can be found in the rig layers titled "Left Fingers - Tweak" and "Right Fingers - Tweak"
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/afd90bbee2657d317ff8583baa77ca5689e7e743/Images/Handtweak.png)
 
 Just like the arms, you can switch betwen FK and IK modes for each finger. Click any finger and find the IK - FK (finger of choice) slider and choose from there. A value of 1 means FK, 0 means IK
 
