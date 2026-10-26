@@ -462,7 +462,7 @@ The Roll On Toe property dictates wether the foot rolls on the toes of the foot 
 
 The IK -> FK With Roll (either foot) property is the same as the IK -> FK (either foot) tool, except that it tries to include the roll of the foot when snapping to the FK position
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/2dc26303bd4ccf64ec9db02be89315af16f515c4/Images/iktofkwithfootroll.gif)
 
 The usual FK and IK functions are shown below
 
