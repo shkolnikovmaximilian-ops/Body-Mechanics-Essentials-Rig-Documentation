@@ -476,7 +476,7 @@ FK -> IK Snapping (Left or Right)
 
 IK -> FK Snapping (Left or Right) 
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/2306ad8b612c36a6853da0c03ab4890ad9e73d0f/Images/iktofklegsnap.gif)
 
 IK Stretch (Left or Right) 
 
