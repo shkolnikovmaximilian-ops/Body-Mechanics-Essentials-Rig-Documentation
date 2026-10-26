@@ -391,7 +391,7 @@ All Example GIFs are shown below
 
 FK Limb Follow (Left or Right) (Any Finger)
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/f888c0e7a4c04f75dd6e1b8e8a594e0149b2d92d/Images/fingerrotfol.gif)
 
 FK -> IK Snapping (Left or Right) (Any Finger)
 
