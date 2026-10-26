@@ -399,7 +399,7 @@ FK -> IK Snapping (Left or Right) (Any Finger)
 
 IK -> FK Snapping (Left or Right) (Any Finger)
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/30a06d701920bad853740780cf45d7ea98063cc7/Images/fingeriktofk2.gif)
 
 IK Stretch (Left or Right) (Any Finger)
 
