@@ -411,7 +411,7 @@ Toggle IK Pole (Left or Right) (Any Finger)
 
 IK Finger Parent (Left or Right) (Any Finger)
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/05159a97dcb15cd8ed92f1e4929b60f770a6cc70/Images/fingerparent%20(1).gif)
 
 IK Pole Parent (Left or Right) (Any Finger)
 
