@@ -294,6 +294,8 @@ The IK arm includes a "pole target". The purpose of this pole target is to chang
 
 The IK arm can allow you to change it's parent control. The IK arm naturally follows the torso, but you can change what it follows by clicking the dropdown called IK Parent and pick from the list what you want the arm to follow
 
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/1447896bb901f4f90987988570326f86fb79ccab/Images/poletargetonoffarm.gif)
+
 Lastly, you can also change the parent of the IK arm's pole target. The pole target's parent is the shoulder by default. Click the Pole Parent dropdown and pick from the list what you want the pole target to follow
 
 #
