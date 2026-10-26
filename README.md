@@ -391,19 +391,31 @@ All Example GIFs are shown below
 
 FK Limb Follow (Left or Right) (Any Finger)
 
+![alt text]
+
 FK -> IK Snapping (Left or Right) (Any Finger)
 
 ![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4fdb0b0139629ea68140c2125835b46208230782/Images/fingersnap1.gif)
 
 IK -> FK Snapping (Left or Right) (Any Finger)
 
+![alt text]
+
 IK Stretch (Left or Right) (Any Finger)
+
+![alt text]
 
 Toggle IK Pole (Left or Right) (Any Finger)
 
+![alt text]
+
 IK Finger Parent (Left or Right) (Any Finger)
 
+![alt text]
+
 IK Pole Parent (Left or Right) (Any Finger)
+
+![alt text]
 
 #
 
@@ -440,20 +452,38 @@ The legs share the same IK and FK functions as the arm and fingers. All examples
 
 The Roll On Toe property dictates wether the foot rolls on the toes of the foot or not. When the property value is 0, the natural rolling on toes occurs. When the value is 1, the foot roll bypasses the toes entirely
 
+![alt text]
+
 The IK -> FK With Roll (either foot) property is the same as the IK -> FK (either foot) tool, except that it tries to include the roll of the foot when snapping to the FK position
+
+![alt text]
 
 The usual FK and IK functions are shown below
 
 FK Limb Follow (Left or Right)
 
+![alt text]
+
 FK -> IK Snapping (Left or Right) 
+
+![alt text]
 
 IK -> FK Snapping (Left or Right) 
 
+![alt text]
+
 IK Stretch (Left or Right) 
+
+![alt text]
 
 Toggle IK Pole (Left or Right) 
 
+![alt text]
+
 IK Finger Parent (Left or Right) 
 
+![alt text]
+
 IK Pole Parent (Left or Right)
+
+![alt text]
