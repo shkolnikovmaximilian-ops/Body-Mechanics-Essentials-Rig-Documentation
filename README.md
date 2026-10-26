@@ -389,7 +389,11 @@ That's because the fingers are techincally mini arms lol. With that being said, 
 
 All Example GIFs are shown below
 
+FK Limb Follow (Left or Right) (Any Finger)
+
 FK -> IK Snapping (Left or Right) (Any Finger)
+
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/4fdb0b0139629ea68140c2125835b46208230782/Images/fingersnap1.gif)
 
 IK -> FK Snapping (Left or Right) (Any Finger)
 
@@ -439,6 +443,8 @@ The Roll On Toe property dictates wether the foot rolls on the toes of the foot 
 The IK -> FK With Roll (either foot) property is the same as the IK -> FK (either foot) tool, except that it tries to include the roll of the foot when snapping to the FK position
 
 The usual FK and IK functions are shown below
+
+FK Limb Follow (Left or Right)
 
 FK -> IK Snapping (Left or Right) 
 
