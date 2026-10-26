@@ -385,7 +385,9 @@ Just like the arms, you can switch betwen FK and IK modes for each finger. Click
 
 The finger controls on each finger also include the same IK - FK snapping mechanisms, FK limb follow functions, pole parent functions, IK parent functions, and IK stretch functions as the arms (The values for these properties are also the same)
 
-That's because the fingers are techincally mini arms lol. With that being said, I won't explain all of that again for each finger. That would take ages and it would be repetitive. Refer yourself to the arms section for details on all of those properties. All Example GIFs are shown below
+That's because the fingers are techincally mini arms lol. With that being said, I won't explain all of that again for each finger. That would take ages and it would be repetitive. Refer yourself to the arms section for details on all of those properties. 
+
+All Example GIFs are shown below
 
 FK -> IK Snapping (Left or Right) (Any Finger)
 
