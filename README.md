@@ -472,7 +472,7 @@ FK Limb Follow (Left or Right)
 
 FK -> IK Snapping (Left or Right) 
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/c4788dee47565e04d4bdff88b6a51f92b34179f4/Images/fktoikleg.gif)
 
 IK -> FK Snapping (Left or Right) 
 
