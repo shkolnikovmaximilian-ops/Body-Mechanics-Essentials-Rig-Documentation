@@ -480,7 +480,7 @@ IK -> FK Snapping (Left or Right)
 
 IK Stretch (Left or Right) 
 
-![alt text]
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/6082b80bbc08c07c8d229e2294f73e9cef38ec3f/Images/iklegstretch.gif)
 
 Toggle IK Pole (Left or Right) 
 
