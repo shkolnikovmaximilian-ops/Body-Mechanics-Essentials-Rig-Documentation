@@ -381,7 +381,7 @@ These can be found in the rig layers titled "Left Fingers - Tweak" and "Right Fi
 
 Just like the arms, you can switch betwen FK and IK modes for each finger. Click any finger and find the IK - FK (finger of choice) slider and choose from there. A value of 1 means FK, 0 means IK (Just because you set one finger to IK or FK, doesn't mean all of them are automatically set the same. You have to manually set each chosen finger to FK or IK)
 
-
+![alt text](https://github.com/shkolnikovmaximilian-ops/Body-Mechanics-Essentials-Rig-Documentation/blob/5b5ef5f25e95d23c583d3d06306f8d8a5308ad16/Images/fingeriktofk.gif)
 
 The finger controls on each finger also include the same IK - FK snapping mechanisms, FK limb follow functions, pole parent functions, IK parent functions, and IK stretch functions as the arms (The values for these properties are also the same)
 
